@@ -43,14 +43,6 @@ $secret = "FOEIUWGHFEEUHOFUOIU";
 
 Enter `FOEIUWGHFEEUHOFUOIU` into the form and submit — access is granted and the password for the next level is revealed.
 
-### Using cURL
-
-```bash
-curl -u natas6:0RoJwHdSKWFTYR5WuiAewauSuNaBXned \
-  -X POST -d 'secret=FOEIUWGHFEEUHOFUOIU&submit=1' \
-  http://natas6.natas.labs.overthewire.org/
-```
-
 ---
 
 ## Concept
